@@ -1,5 +1,3 @@
-# GitHub Training
-
 ## Name
 Muskan Jaiswal
 
