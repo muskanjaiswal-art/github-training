@@ -9,3 +9,8 @@ php, mysql, postman, git
 
 ## Career goal
 To become a Full Stack Developer.
+
+## Hobbies
+Coding
+Reading
+Listening to music
