@@ -14,3 +14,7 @@ To become a Full Stack Developer.
 Coding
 Reading
 Listening to music
+
+## Certifications
+Html & CSS fundamentals
+Git & Github basics
