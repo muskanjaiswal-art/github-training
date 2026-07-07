@@ -18,3 +18,7 @@ Listening to music
 ## Certifications
 Html & CSS fundamentals
 Git & Github basics
+
+## Contact
+Email: muskanjaiswal@gmail.com
+GitHub: https://github.com/muskanjaiswal-art
